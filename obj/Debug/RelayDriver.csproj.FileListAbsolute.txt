@@ -1,0 +1,16 @@
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver.csprojAssemblyReference.cache
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\App.g.cs
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver_MarkupCompile.cache
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\MainWindow.g.cs
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver_MarkupCompile.lref
+C:\Users\rfong\source\repos\RelayDriver\bin\Debug\RelayDriver.exe.config
+C:\Users\rfong\source\repos\RelayDriver\bin\Debug\RelayDriver.exe
+C:\Users\rfong\source\repos\RelayDriver\bin\Debug\RelayDriver.pdb
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\MainWindow.baml
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver.g.resources
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver.Properties.Resources.resources
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver.csproj.GenerateResource.cache
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver.csproj.CoreCompileInputs.cache
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver.exe
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\RelayDriver.pdb
+C:\Users\rfong\source\repos\RelayDriver\obj\Debug\GeneratedInternalTypeHelper.g.cs
